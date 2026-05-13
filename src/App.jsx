@@ -50,7 +50,7 @@ function App() {
   return (
     <div className="app">
       <div className="weather-card">
-        <h1>Cloud Weather App</h1>
+        <h1>Cloud Weather App ☁️</h1>
         <p className="subtitle">Search current weather by city</p>
 
         <div className="search-box">
